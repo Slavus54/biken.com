@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Главная",
+        "access_value": 0,
+        "url": "/"
+    },
+    {
+        "title": "Мой Аккаунт",
+        "access_value": -1,
+        "url": "/login"
+    },
+    {
+        "title": "Маршруты",
+        "access_value": 1,
+        "url": "/itineraries"
+    },
+    {
+        "title": "Велосипеды",
+        "access_value": 1,
+        "url": "/bikes"
+    },
+    {
+        "title": "Трюки",
+        "access_value": 1,
+        "url": "/tricks"
+    },
+    {
+        "title": "Места",
+        "access_value": 1,
+        "url": "/places"
+    },
+    {
+        "title": "Велогонщики",
+        "access_value": 1,
+        "url": "/cyclists"
+    },
+    {
+        "title": "Товары",
+        "access_value": 1,
+        "url": "/products"
+    },
+    {
+        "title": "Пользователи",
+        "access_value": 1,
+        "url": "/profiles"
+    }
+]

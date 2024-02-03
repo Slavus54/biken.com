@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Маршрут",
+        "path": "itinerary"
+    },
+    {
+        "title": "Велосипед",
+        "path": "bike"
+    },
+    {
+        "title": "Трюк",
+        "path": "trick"
+    },
+    {
+        "title": "Место",
+        "path": "place"
+    },
+    {
+        "title": "Велогонщик",
+        "path": "cyclist"
+    },
+    {
+        "title": "Товар",
+        "path": "product"
+    }
+]
